@@ -16,6 +16,14 @@ along the way.
 - **Security**: container and dependency scanning (Trivy, Grype, Syft), DefectDojo, Checkov, cross-cloud workload identity (AWS and GCP federation)
 - **FinOps**: cost visibility, Savings Plans and rightsizing
 
+### Homelab platform
+
+A production-style Kubernetes platform on three Proxmox hosts at home: k0s, Cilium, Flux GitOps,
+OpenBao, SSO, policy, observability and tested backups, all as code. The PDF shows the traffic flow,
+the stack and how it is built.
+
+[![Homelab platform overview](assets/homelab-platform.png)](assets/homelab-platform.pdf)
+
 ### Recent projects
 
 | Project | What it does |
@@ -28,14 +36,6 @@ along the way.
 | [pogocache-operator](https://github.com/franzramadhan/pogocache-operator) | Kubernetes operator for Pogocache instances |
 | [pogocache-docker](https://github.com/franirafa/pogocache-docker) | Multi-arch Docker images for Pogocache |
 | [cidrlist](https://github.com/franzramadhan/cidrlist) | CLI to fetch CIDR ranges from common internet providers |
-
-### Homelab platform
-
-A production-style Kubernetes platform on three Proxmox hosts at home: k0s, Cilium, Flux GitOps,
-OpenBao, SSO, policy, observability and tested backups, all as code. The PDF shows the traffic flow,
-the stack and how it is built.
-
-[![Homelab platform overview](assets/homelab-platform.png)](assets/homelab-platform.pdf)
 
 ### Toolbox
 
