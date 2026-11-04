@@ -24,6 +24,7 @@ along the way.
 | [homie](https://github.com/franzramadhan/homie) | One page for the whole homelab: hypervisors, Kubernetes, GitOps, alerts and security findings in a single Rust binary |
 | [ipcalc](https://github.com/franzramadhan/ipcalc) | IPv4 and IPv6 subnet calculator that explains every answer. A 350 KB WebAssembly component on Kubernetes ([live](https://ipcalc.franzramadhan.dev)) |
 | [socialbtw](https://github.com/franzramadhan/socialbtw) | Auto-hides spam and abuse in Threads replies with a decision model. Rust, SQLite or Postgres, Prometheus metrics |
+| [antree](https://github.com/franzramadhan/antree) | Top-down satire game about getting one document from the government of Kuvukiland. Rust, macroquad, WebAssembly ([play](https://antree.franzramadhan.dev/)) |
 | [pogocache-operator](https://github.com/franzramadhan/pogocache-operator) | Kubernetes operator for Pogocache instances |
 | [pogocache-docker](https://github.com/franirafa/pogocache-docker) | Multi-arch Docker images for Pogocache |
 | [cidrlist](https://github.com/franzramadhan/cidrlist) | CLI to fetch CIDR ranges from common internet providers |
